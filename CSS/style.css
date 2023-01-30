@@ -1,0 +1,83 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin: 90px auto 0 auto;
+    font-size: 562%;
+    font-family: 'Sacramento', cursive;
+    color:  #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 2.5rem;
+    color:  #66BFBF;
+    font-weight: normal;
+}
+.kdiv{
+    background-color: rgb(217, 253, 253);
+    padding: 20px;
+}
+h3{
+    color: #11999E;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 30px;
+}
+
+hr{
+    margin-top: 20px ;
+    border: dotted #9aa2a2 6px;
+    border-bottom: none;
+    width: 10%;
+}
+
+.btn{
+    border: 2px solid white;
+    color: white;
+    background-color:#11999E ;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.bottom-container{
+    background-color: rgb(217, 253, 253);
+    margin-top: 17px;
+    padding-top: 20px;
+}
+
+.bottom-container a{
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    left:28%;
+}
+
+.top-cloud{
+    position: relative;
+    left:14%;
+}
+
+
+.comp{
+    width: 25%;
+    float: left;
+    margin-right:  30px;
+}
+
+.chili{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+    
